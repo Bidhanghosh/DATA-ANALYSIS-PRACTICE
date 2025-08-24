@@ -63,7 +63,7 @@ To provide an interactive, data-driven platform that:
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](https://github.com/Bidhanghosh/DATA-ANALYSIS-PRACTICE/blob/main/PROJECTS/Sales%20Dashboard%20Project(CHANDOO.ORG/Output.png)
+[Dashboard Preview](https://github.com/Bidhanghosh/DATA-ANALYSIS-PRACTICE/blob/main/PROJECTS/Sales%20Dashboard%20Project(CHANDOO.ORG/Output.png)
 
 ---
 
