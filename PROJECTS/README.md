@@ -78,9 +78,34 @@ Interactive Power BI dashboard analyzing chocolate **sales, profits, products, t
 
 ---
 
-## ⚡ License
+🍫 3. Chocolate Sales Dashboard
 
-This repository is open source and free to use for educational and professional purposes.  
+![Chocolate Sales](https://images.pexels.com/photos/1095557/pexels-photo-1095557.jpeg?auto=compress&cs=tinysrgb&w=1350)
+
+**Overview:**  
+Interactive Power BI dashboard analyzing chocolate **sales, profits, products, teams, and countries**. Tracks top-selling and least profitable products and performance by sales teams.  
+
+**Key Features:**  
+- KPIs: Total Sales, Total Profit, Profit %  
+- Top & Bottom Products Analysis  
+- Profit by Country and Sales Team  
+- Performance Trends Over Time  
+
+**Screenshots:**  
+![Dashboard 1](https://github.com/Bidhanghosh/DATA-ANALYSIS-PRACTICE/blob/main/PROJECTS/Chocolate_Sales/Pic-1.PNG)  
+![Dashboard 2](https://github.com/Bidhanghosh/DATA-ANALYSIS-PRACTICE/blob/main/PROJECTS/Chocolate_Sales/Pic-2.PNG)  
+
+**[Open Project Files](https://github.com/Bidhanghosh/DATA-ANALYSIS-PRACTICE/tree/main/PROJECTS/Chocolate_Sales)**  
+
+---
+
+## 📌 Usage
+
+1. Download the `.pbix` files from the links above.  
+2. Open in **Power BI Desktop**.  
+3. Explore KPIs, filters, and charts for detailed insights.  
+4. Export visuals for reports, presentations, or strategy planning.  
+
 
 ---
 
